@@ -29,10 +29,11 @@ FEED_CHAT_ID=-10012312321
 
 ```
 
+Install requirements: `pip3 install -r requirements.txt`
 Launch bot: `python3 core.py`
 
 ## Ongoing
 
-I wish to make bot way more better creature; have clean code, use modular
-architecture, make application, etc. But I still pushed it to github to have
-something like proof-of-working shitcode implementation. Don't blame me.
+I wish to make bot way more better creature; have clean code, have docker, use
+modular architecture, make application, etc. But I still pushed it to github to
+have something like proof-of-working shitcode implementation. Don't blame me.
